@@ -5412,15 +5412,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\u799283\\.nuget\\packages\\": {}
+    "C:\\Users\\bkocs\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "DT Testing",
       "projectName": "DT Testing",
-      "projectPath": "C:\\Users\\u799283\\OneDrive - Foot Locker\\Documents\\UiPath\\DT Testing\\.local",
-      "packagesPath": "C:\\Users\\u799283\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\u799283\\OneDrive - Foot Locker\\Documents\\UiPath\\DT Testing\\.local"
+      "projectPath": "C:\\Users\\bkocs\\Desktop\\Git\\UiPath\\DT Testing\\.local",
+      "packagesPath": "C:\\Users\\bkocs\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bkocs\\Desktop\\Git\\UiPath\\DT Testing\\.local"
     },
     "frameworks": {
       "net461": {
@@ -5451,7 +5451,7 @@
             "version": "[20.10.6, 20.10.6]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\u799283\\AppData\\Local\\UiPath\\app-21.4.0-beta0299\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\bkocs\\AppData\\Local\\UiPath\\app-21.4.0\\runtime.json"
       }
     }
   }
