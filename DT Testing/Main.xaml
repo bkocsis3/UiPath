@@ -73,7 +73,7 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="304,62.4" sap2010:WorkflowViewState.IdRef="WriteLine_9" Text="Testing Datatables" />
+    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="304,62.4" sap2010:WorkflowViewState.IdRef="WriteLine_9" Text="Testing Datatables ..." />
     <Sequence DisplayName="Origional DT Sequence" sap:VirtualizedContainerService.HintSize="304,68.8" sap2010:WorkflowViewState.IdRef="Sequence_2">
       <Sequence.Variables>
         <Variable x:TypeArguments="ui:WorkbookApplication" Name="Open_Workbook" />
